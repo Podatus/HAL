@@ -28,3 +28,8 @@ Exemple :
     </edition>
 </editionStmt>
 ```
+TEI2hal.py
+* description : script Python pour transférer une notice en TEI dans Hal
+* prérequis : avoir un fichier TEI + Python3 + librarie Requests
+* usage : modifier le chemin du fichier TEI et vos identifiants Hal
+* Sortie : la réponse Sword est imprimée dans la console
